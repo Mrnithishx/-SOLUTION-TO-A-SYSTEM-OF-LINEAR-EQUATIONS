@@ -23,9 +23,10 @@ A=np.array([[1,3],[2,5]])
 B=np.array([5,-3])
 result=np.linalg.solve(A,B)
 print(result)
-``
+```
 ## Output:
-![ss](https://github.com/Mrnithishx/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/148201573/699ea563-4bf3-4f49-b571-c08bcbc73207)
+![Screenshot 2023-12-20 112506](https://github.com/Mrnithishx/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/148201573/cc873e88-fa4c-4bf1-889c-754eecd4dc48)
+
 
 
 ## Result: 
